@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Space-Age";
+    src: url("/fonts/space age.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SpaceMono";
+    src: url("/fonts/SpaceMono-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SpaceMono";
+    src: url("/fonts/SpaceMono-BoltItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "SpaceMono";
+    src: url("/fonts/SpaceMono-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "SpaceMono";
+    src: url("/fonts/SpaceMono-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+:root {
+    /* Brand Colors */
+    --brand-primary: #201e4B;
+    --brand-secondary: #D4A3E2;
+    --brand-tertiary: #C6E7A3;
+
+    /* Neutral Colors */
+    --text-color: white;
+    --background-color: #f5f5f5;
+    --hover-darken: rgba(0, 0, 0, 0.1);
+    --light-gray: #f0f0f0;
+    --medium-gray: #c1c1c1;
+    --dark-gray: #535054;
+    --charcoal-gray: #2f2f2f;
+}
