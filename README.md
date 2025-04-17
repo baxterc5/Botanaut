@@ -1,4 +1,4 @@
-# Botanaut
+# ECONOVA
 # Here is our Zoom mtg invite 
 Topic: MI 449 Mtg Room
 Time: Apr 10, 2025 07:00 PM Eastern Time (US and Canada)
